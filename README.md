@@ -48,6 +48,9 @@ Top 4% in TryHackMe platform, check out my profile here: https://tryhackme.com/p
    
 </div>
 
+## Cloud
+ AWS Learning Badges
+
 ## Certifications
 
 <div>
