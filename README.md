@@ -22,7 +22,7 @@ Top 4% in TryHackMe platform, check out my profile here: https://tryhackme.com/p
 | Skill                                                                       | Associated Project                              |
 |-----------------------------------------------------------------------------|-------------------------------------------------|
 |1. Virtualization and Virtual Machines with Kali Linux and Metasploitable 2  |<a href="https://github.com/R1fdh4n/Virtualization-and-Virtual-Machines">Virtual Home Lab</a>|
-|2. Network Traffic Monitoring with Wireshark                                 |<a href="https://google.com">Detection Lab</a>   |
+|2. Network Traffic Monitoring with Wireshark                                 |<a href="https://google.com">Network Analysis</a>   |
 |3. Active Directory with SOC Home Lab(Working on it)                         |<a href="https://google.com">AD SOC Home Lab</a> |                                                                                                                            
 
 ## Tools
@@ -59,5 +59,5 @@ Google Cybersecurity Certified Professional (specialization Certificate) [https:
 
 ## Projects
 - <a href="https://github.com/R1fdh4n/Virtualization-and-Virtual-Machines">Virtual Home Lab</a>
-- Detection Lab
+- Network Analysis
 - Active Directory with SOC Home Lab(Working on it)
