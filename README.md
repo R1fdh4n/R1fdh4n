@@ -27,7 +27,7 @@ Top 4% in TryHackMe platform, check out my profile here: https://tryhackme.com/p
 
 ## Tools
 
-**Nmap**: port scanning, **OpenVAS and Nikto**: Scan for known vulnerabilities, **Metasploit Framework**, **Hydra and John the Ripper**: Perform brute-force attacks on login credentials, **Burp Suite and SQLmap**: Test web applications for SQL injection, XSS, and other vulnerabilities,  **Metasploit and LinPEAS**: Escalate privileges from a user to root on Linux machines, **Wireshark**: Intercept and manipulate network traffic between machines, **SET (Social Engineering Toolkit)**: Simulate phishing attacks or other social engineering techniques, **Meterpreter (part of Metasploit)**: Maintain access, gather information, and perform actions on machines after gaining initial access, **MXToolbox**: Email Analysis, **Splunk**: SIEM and Log Analysis, **Virus Total**: Malware Analysis
+**Nmap**: port scanning, **OpenVAS and Nikto**: Scan for known vulnerabilities, **Metasploit Framework**, **Hydra and John the Ripper**: Perform brute-force attacks on login credentials, **Burp Suite and SQLmap**: Test web applications for SQL injection, XSS, and other vulnerabilities,  **Metasploit and LinPEAS**: Escalate privileges from a user to root on Linux machines, **Wireshark and TCPDump**: Intercept and manipulate network traffic between machines, **SET (Social Engineering Toolkit)**: Simulate phishing attacks or other social engineering techniques, **Meterpreter (part of Metasploit)**: Maintain access, gather information, and perform actions on machines after gaining initial access, **MXToolbox**: Email Analysis, **Splunk**: SIEM and Log Analysis, **Virus Total**: Malware Analysis
 
 
 ### Network
