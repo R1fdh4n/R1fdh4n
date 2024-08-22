@@ -26,7 +26,9 @@ Top 4% in TryHackMe platform, check out my profile here: https://tryhackme.com/p
 |3. Active Directory with SOC Home Lab(Working on it)                         |<a href="https://google.com">AD SOC Home Lab</a> |                                                                                                                            
 
 ## Tools
-<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+
+#### Nmap: port scanning, OpenVAS and Nikto: Scan for known vulnerabilities, Metasploit Framework, Hydra and John the Ripper: Perform brute-force attacks on login credentials, Burp Suite and SQLmap: Test web applications for SQL injection, XSS, and other vulnerabilities,  Metasploit and LinPEAS: Escalate privileges from a user to root on Linux machines, Wireshark: Intercept and manipulate network traffic between machines, SET (Social Engineering Toolkit): Simulate phishing attacks or other social engineering techniques, Meterpreter (part of Metasploit): Maintain access, gather information, and perform actions on machines after gaining initial access.
+
 
 ### Network
 <div>
