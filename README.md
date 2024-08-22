@@ -13,6 +13,10 @@ TryHackMe is a reputated online learning platform for ethical hacking and cybers
 
 Top 4% in TryHackMe platform, check out my profile here: https://tryhackme.com/p/Rifdhan
 
+## TryHackMe Writeups/Walkthrough (Documention)
+
+## VAPT Report on Ice Cast  (TryHackMe Room)
+
 ## Skills
 
 | Skill                                                                       | Associated Project                              |
