@@ -9,8 +9,7 @@ My journey has led me to develop a passion for cybersecurity and technology, and
 
 ## Achievements
 
-TryHackMe is a reputated online learning platform for ethical hacking and cybersecurity. 
-
+TryHackMe is a reputated online learning platform for ethical hacking and cybersecurity. <br>
 Top 4% in TryHackMe platform, check out my profile here: https://tryhackme.com/p/Rifdhan
 
 ## Skills
