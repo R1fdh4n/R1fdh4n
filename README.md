@@ -51,12 +51,12 @@ Upcoming
 
 ## Certifications
 
-<div>
-Google Cybersecurity Certified Professional (specialization Certificate) [https://www.coursera.org/account/accomplishments/professional-cert/9DCUJNUWSQTH]
-    
-
-
-</div>
+- ISO/IEC 27001 Information Security Associate™ <br> https://www.skillfront.com/Badges/43847477062229
+- Google Cybersecurity Certified Professional (Specialization Certificate) <br> https://www.coursera.org/account/accomplishments/professional-cert/9DCUJNUWSQTH
+- Hands-on Introduction to Linux Commands and Shell Scripting <br> https://www.coursera.org/account/accomplishments/verify/BREWU5XU4EBN
+- Introduction to Vulnerability Management <br> Issued Sep 2023, Credential ID CC-30aa8d7e-1a90-44cc-9701-e83b3a03e4d3
+- Introduction to Cybersecurity <br> https://www.credly.com/badges/3eb0893e-e92a-4a82-934b-5b655c09f44c/public_url
+- Programming for Everybody (Getting Started with Python) <br> https://www.coursera.org/account/accomplishments/verify/75WR77G29W9V
 
 ## Projects
 - <a href="https://github.com/R1fdh4n/Virtualization-and-Virtual-Machines">Virtual Home Lab</a>
