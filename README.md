@@ -61,4 +61,8 @@ Upcoming
 ## Projects
 - <a href="https://github.com/R1fdh4n/Virtualization-and-Virtual-Machines">Virtual Home Lab</a>
 - <a href="https://github.com/R1fdh4n/Network-Analysis-Wireshark">Network Analysis</a>  
-- <a href="https://github.com/R1fdh4n/AD-SOC-Home-Lab">AD SOC Home Lab</a> 
+- <a href="https://github.com/R1fdh4n/AD-SOC-Home-Lab">AD SOC Home Lab</a>
+
+### Currently working on
+- AD SOC project
+- Preparing for EC Council's Certifid SOC Analyst (C|SA) certification
