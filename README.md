@@ -68,3 +68,5 @@ Upcoming
 ### Currently working on
 - AD SOC project
 - Preparing for EC Council's Certifid SOC Analyst (C|SA) certification
+
+  ![](https://komarev.com/ghpvc/?username=R1fdh4n&color=green)
